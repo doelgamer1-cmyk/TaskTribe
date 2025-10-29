@@ -1,0 +1,7 @@
+{
+  "name": "TaskTribe Onboarding Flow",
+  "description": "A user onboarding and home screen experience for the TaskTribe platform, designed for new teen users.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
